@@ -1,4 +1,4 @@
-const { print } = require('./../utils');
+const { print } = require('./../utils/fail');
 
 module.exports = (con) => {
 
